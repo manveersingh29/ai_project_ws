@@ -1,1 +1,1 @@
-# 3d hand held mapping using RGBD camera
+# 3D hand held mapping using RGBD camera
