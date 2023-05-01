@@ -1,0 +1,8 @@
+prefix=/home/manveer/ai_project_ws/install
+
+Name: rtabmap_launch
+Description: Description of rtabmap_launch
+Version: 0.21.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
